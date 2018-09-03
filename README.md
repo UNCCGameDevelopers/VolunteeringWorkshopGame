@@ -1,2 +1,2 @@
 # VolunteeringWorkshopGame
-Making modula mini games for Children's Levine Hospital using GameMaker Studio
+Making modular mini games for Children's Levine Hospital using GameMaker Studio
